@@ -15,6 +15,7 @@ body{
 .header{
     display: flex;
     margin: 20px;
+    justify-content: space-between;    
 }
 .snapchat{
     background-color: #fffc00;
@@ -73,3 +74,4 @@ body{
     font-weight: lighter;
     font-size: 15px;
 }
+
